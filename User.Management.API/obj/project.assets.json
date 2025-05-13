@@ -5139,23 +5139,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Users\\sswhi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\User.Management.API\\User.Management.API\\User.Management.API.csproj",
+      "projectUniqueName": "C:\\KIRAN lEARNING\\ShuklaMedical\\DotNetIdentity\\User.Management.API\\User.Management.API.csproj",
       "projectName": "User.Management.API",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\User.Management.API\\User.Management.API\\User.Management.API.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\User.Management.API\\User.Management.API\\obj\\",
+      "projectPath": "C:\\KIRAN lEARNING\\ShuklaMedical\\DotNetIdentity\\User.Management.API\\User.Management.API.csproj",
+      "packagesPath": "C:\\Users\\sswhi\\.nuget\\packages\\",
+      "outputPath": "C:\\KIRAN lEARNING\\ShuklaMedical\\DotNetIdentity\\User.Management.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sswhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5235,7 +5235,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

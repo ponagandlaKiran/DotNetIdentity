@@ -12,5 +12,8 @@ namespace User.Management.API.Models.Authentication.SignUp
 
         [Required(ErrorMessage = "Password Is Mandatory")]
         public string Password { get; set; }
+
+        [Required(ErrorMessage = "User Role is Mandatory")]
+        public string UserRole { get; set; }
     }
 }
