@@ -1,0 +1,41 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Others
+.env
+docker-compose.*
+*.dbmdl
+*.jfm
+*.cache
+*.log
+node_modules/
+azds.yaml
+charts/
+secrets.dev.yaml
+values.dev.yaml
+*.tgz
+
+# Ignore Rider project files
+.idea/
+
+# Don't ignore these
+!.gitignore
